@@ -1,6 +1,6 @@
 name: smart_file_picker
 description: "A smart and flexible Flutter package for picking images, videos, and files with built-in image cropping support."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/medooadel10/smart_file_picker
 repository: https://github.com/medooadel10/smart_file_picker
 issue_tracker: https://github.com/medooadel10/smart_file_picker/issues
