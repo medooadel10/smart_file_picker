@@ -1,4 +1,4 @@
-## 0.0.1
+## 0.0.2
 
 * Initial release.
 * Pick images from camera or gallery with `FilePickerType.camera` / `FilePickerType.gallery`.
