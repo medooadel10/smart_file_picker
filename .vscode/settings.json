@@ -9,7 +9,4 @@
     "source.sortImports": "always",
     "source.format": "always",
   },
-  "cSpell.words": [
-    "Elkanteen"
-  ],
 }
