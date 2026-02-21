@@ -1,0 +1,22 @@
+name: smart_file_picker_example
+description: "A comprehensive example app for the smart_file_picker package."
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  smart_file_picker:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
